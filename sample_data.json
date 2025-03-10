@@ -1,0 +1,94 @@
+[
+  {
+    "user_id": "u1",
+    "profile": {
+      "name": "Alice",
+      "age": 30,
+      "address": {
+        "street": "123 Apple St",
+        "city": "Wonderland",
+        "zip": "12345"
+      }
+    },
+    "transactions": [
+      {"tx_id": "t1", "amount": 100, "date": "2023-01-01"},
+      {"tx_id": "t2", "amount": 150, "date": "2023-01-05"}
+    ]
+  },
+  {
+    "user_id": "u2",
+    "profile": {
+      "name": "Bob",
+      "age": 25,
+      "address": {
+        "street": "456 Orange Ave",
+        "city": "Fantasia",
+        "zip": "67890"
+      }
+    },
+    "transactions": [
+      {"tx_id": "t3", "amount": 200, "date": "2023-02-10"}
+    ]
+  },
+  {
+    "user_id": "u3",
+    "profile": {
+      "name": "Charlie",
+      "age": 40,
+      "address": {
+        "street": "789 Banana Blvd",
+        "city": "Metropolis",
+        "zip": "11223"
+      }
+    },
+    "transactions": [
+      {"tx_id": "t4", "amount": 300, "date": "2023-03-15"},
+      {"tx_id": "t5", "amount": 350, "date": "2023-03-20"},
+      {"tx_id": "t6", "amount": 400, "date": "2023-03-25"}
+    ]
+  },
+  {
+    "user_id": "u4",
+    "profile": {
+      "name": "Diana",
+      "age": 28,
+      "address": {
+        "street": "321 Grape Rd",
+        "city": "Utopia",
+        "zip": "33445"
+      }
+    },
+    "transactions": [
+      {"tx_id": "t7", "amount": 250, "date": "2023-04-01"}
+    ]
+  },
+  {
+    "user_id": "u5",
+    "profile": {
+      "name": "Ethan",
+      "age": 35,
+      "address": {
+        "street": "654 Kiwi Ln",
+        "city": "Paradise",
+        "zip": "55667"
+      }
+    },
+    "transactions": [
+      {"tx_id": "t8", "amount": 180, "date": "2023-05-05"},
+      {"tx_id": "t9", "amount": 220, "date": "2023-05-10"}
+    ]
+  },
+  {
+    "user_id": "u6",
+    "profile": {
+      "name": "Fiona",
+      "age": 29,
+      "address": {
+        "street": "987 Mango Ave",
+        "city": "Elysium",
+        "zip": "77889"
+      }
+    },
+    "transactions": []
+  }
+]
